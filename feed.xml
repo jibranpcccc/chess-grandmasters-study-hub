@@ -4,10 +4,17 @@
     <title>Competitive Chess &amp; Opening Theory Hub</title>
     <link>https://chess-grandmasters-study-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:01:43 GMT</lastBuildDate>
     <atom:link href="https://chess-grandmasters-study-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://chess-grandmasters-study-hub.vercel.app/#chess-grandmasters-study-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:01:43 GMT</pubDate>
+      <description>Newly verified community added to Competitive Chess &amp; Opening Theory Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://chess-grandmasters-study-hub.vercel.app/#chess-grandmasters-study-hub-reddit-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://chess-grandmasters-study-hub.vercel.app/#chess-grandmasters-study-hub-discord-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:15:45 GMT</pubDate>
       <description>Newly verified community added to Competitive Chess &amp; Opening Theory Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Chess.com Official Community Discord (Discord)</title>
-      <link>https://discord.gg/chesscom</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/chess-grandmasters-study-hub/#chess-grandmasters-study-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Chess Grandmasters Study Hub: The official Discord server for Chess.com players, featuring grandmaster analysis, opening preparation, puzzle study channels, and live tournaments.</description>
     </item>
   </channel>
 </rss>
